@@ -1,0 +1,257 @@
+{
+  "overvåge ai-interaktioner for personfølsomme oplysninger i realtid": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "analysere trends i afdelingens ai-brug over tid": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "modtage automatiske advarsler ved brug af følsomme udtryk i prompts": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "generere månedlige rapporter om ai-aktivitet pr. afdeling": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "filtrere ai-prompting i kundeservice for at undgå datalæk": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "eksportere en revisionsklar log til tilsyn": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "se en oversigt over hvilke teams bruger hvilke ai-værktøjer": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "vurdere risikoen for gdpr-brud baseret på brugsmønstre": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "oprette politikker for hvilke afdelinger må bruge ai": {
+    "label": "Mellem",
+    "score": 0.5,
+    "source": "Admin vurdering"
+  },
+  "administrere brugerrettigheder og adgang til ai-tools": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "spore effektiviteten af ai-assisterede arbejdsopgaver": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "optimere prompts baseret på tidligere resultater": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "tilpasse dashboards til specifikke forretningsmål": {
+    "label": "Mellem",
+    "score": 0.5,
+    "source": "Admin vurdering"
+  },
+  "aktivere promptfiltrering på tværs af systemer": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "oprette onboarding-flow for ai-brugere": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "logge sagsbehandlinger hvor ai har assisteret": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "definere roller for adgang til følsomme ai-logs": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "identificere fejl i prompts der udløser advarsler": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "spore anvendelsen af ai i hr-processer": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "analysere økonomisk gevinst ved ai-automatisering": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "vurdere læreres brug af ai i undervisningsmateriale": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "se historik over ændringer i ai-politikker": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "generere månedlig compliance-score for ai-brug": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "integrere lokal gdpr-praksis i promptfiltrene": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "registrere samtykke ved ai-brug i borgerkontakt": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "få visuelle indikatorer for mistænkelig ai-brug": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "udføre manuel kvalitetskontrol af ai-genereret output": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "rapportere ai-brug til bestyrelsen med grafer": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "træne medarbejdere i korrekt brug af ai gennem logindsigt": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "sammenligne ai-brug mellem afdelinger": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "designe dashboards der fremhæver brud på datapolitikker": {
+    "label": "Mellem",
+    "score": 0.5,
+    "source": "Admin vurdering"
+  },
+  "kombinere kpi'er med ai-brugsdata": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "modtage daglige resumeer af ai-aktivitet i nøglefunktioner": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "oprette ai-adfærdsmønstre der udløser notifikationer": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "filtrere ai-anvendelse i forbindelse med sagsnumre": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "beskytte økonomidata mod uautoriseret prompt-indsigt": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "spore ændringer i brugsmønstre over måneder": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "analysere forskelle i promptkvalitet mellem teams": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "blokere specifikke ord i ai-prompts": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "styre hvilke brugere må eksportere ai-logs": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "automatisere rapportering ved gdpr-forespørgsler": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "måle hvor mange opgaver ai har assisteret i": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "se fordeling af ai-brug fordelt på medarbejdertyper": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "filtrere ai-brug i følsomme organisatoriske dokumenter": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "identificere hyppige brugere med risiko-adfærd": {
+    "label": "Mellem",
+    "score": 0.5,
+    "source": "Admin vurdering"
+  },
+  "rapportere brug af ai i fødevare- eller sundhedsdata": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "benchmarke ai-brug mod interne retningslinjer": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "gennemføre stikprøver på genererede ai-svar": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "registrere forsøg på at omgå promptfilteret": {
+    "label": "Lav",
+    "score": 0.1,
+    "source": "Admin vurdering"
+  },
+  "etablere baseline for ai-anvendelse ved projektstart": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  },
+  "oploader dokumenter med personfølsomme oplysninger til at hjælpe med resume": {
+    "label": "Høj",
+    "score": 0.9,
+    "source": "Admin vurdering"
+  }
+}
